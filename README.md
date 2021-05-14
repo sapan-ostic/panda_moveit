@@ -1,5 +1,10 @@
 A **Gazebo simulator** for the Franka Emika Panda robot with ROS interface, providing exposed **controllers** and real-time **robot state feedback** similar to the real robot when using the [*franka-ros*][franka-ros] package.
 
+<p align="center">
+  <img src="https://github.com/sapan-ostic/panda_moveit/blob/main/assets/demo.gif" />
+</p>
+
+
 ### Installation
 
 ROS Kinetic
